@@ -14,8 +14,9 @@
   A content-based movie recommendation engine built using Python, TMDB dataset, and cosine similarity.
   Suggests similar movies based on user input and displays posters using TMDB API.
 
-- 🧠 [AI Movie Trailer Generator (In Progress)](https://github.com/YourUsername/MovieTrailerAI)  
-  Builds genre-based trailers using NLP + scene selection from subtitles and script.
+- 💳 Bank Loan Analysis (SQL + Power BI)(https://github.com/spokey7/bank-loan-analysis-sql-powerbi)
+
+A data analytics project using MS SQL Server and Power BI to analyze bank loan applications, funded amounts, repayments, and borrower profiles. Includes interactive dashboards for KPIs, loan trends, regional insights, and borrower demographics.
 
 ---
 
